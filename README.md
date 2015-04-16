@@ -9,7 +9,7 @@ To CV readers: I always want to get better, so if you spot ways I can improve, f
 ### Excellent Communicator (written and verbal)
 
 - I developed my communication skills through my English degree at Goldsmiths and also during my time working at   Centaur Media working across Marketing Week, Design Week, Creative Review, Econsultancy, and Fashion Monitor as an Account Manager. 
-- Successfully liaised with clients across marketing, PR, design, fashion and tech verticals culminating in some of the highest sales previously seen.
+- Successfully liaised with clients across marketing, PR, design, fashion and tech verticals culminating in some of the highest sales previously seen at Fashion Monitor.
 - Good at communicating how digital products work in a none technical way - learnt this whilst working for Fashion Monitor. I took fashion brands through the website, understanding their needs, and helped them deliver on their PR campaigns using our product. Also helped write the video script to explain how the site worked to none technical customers.
 
 ### Proactive Learner
