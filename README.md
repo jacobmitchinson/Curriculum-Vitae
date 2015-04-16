@@ -1,6 +1,6 @@
 # Jacob Mitchinson
 
-Junior Developer and recent graduate of Makers Academy with a background in B2B digital products and wedded to Renaissance Literature. Huge fan of TDD, SOLID, agile processes, and writing clear and concise code. Previously worked with clients such as Etsy and Adidas, and proud of my final projects at Makers Academy: [MakerBot](https://github.com/jacobmitchinson/MakerBot) and [Meshee](https://github.com/jacobmitchinson/mesheeChat). I'm looking for a forward thinking company where I can take on a lot of responsibility and be able to grow and learn as a developer.
+Junior Developer and recent graduate of Makers Academy with a background in B2B digital products and wedded to Renaissance Literature. Huge fan of TDD, SOLID, pairing, agile processes, and writing clear and concise code. Previously worked with clients such as Etsy and Adidas, and proud of my final projects at Makers Academy: [MakerBot](https://github.com/jacobmitchinson/MakerBot) and [Meshee](https://github.com/jacobmitchinson/mesheeChat). I'm looking for a forward thinking company where I can take on a lot of responsibility and be able to grow and learn as a developer.
 
 To CV readers: I always want to get better, so if you spot ways I can improve, feel welcome to drop me an email at jmitchinson@gmail.com. I strongly believe in the Agile process as an individual and in my work so feedback is important to me.  
 
